@@ -1,0 +1,4 @@
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_8chUSBtoserial|SchDesignator=U_8chUSBtoserial|FileName=8chUSBtoserial.SchDoc|SymbolType=Normal|RawFileName=8chUSBtoserial.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_MCU_1|SchDesignator=U_MCU_1|FileName=MCU_1.12.SchDoc|SymbolType=Normal|RawFileName=MCU_1.12.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_W5500_1|SchDesignator=U_W5500_1|FileName=W5500_1.12.SchDoc|SymbolType=Normal|RawFileName=W5500_1.12.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=main.SchDoc
